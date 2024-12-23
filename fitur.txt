@@ -1,0 +1,23 @@
+│─═⊱ 「 MENU 」 ─═⬣[⿻ 
+║
+│┏⊱ LISTMENU
+│𖥂 .owner
+║𖥂 .self
+│𖥂 .public
+║𖥂 .pushkontak 
+│𖥂 .pushkontak1 
+║𖥂 .savekontak1 
+│𖥂 .listgc
+║𖥂 .cekidch
+│𖥂 .jpm1
+║𖥂 .jpm2
+│𖥂 .listproduk 
+║𖥂 .listhosting
+│𖥂 .listpanel
+║𖥂 .listvps 
+│𖥂 .done
+║𖥂 .tiktok
+│𖥂 .payment
+║𖥂 .ping
+│┗⊱
+┗━━━━━━━━━━━[⿻

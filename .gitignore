@@ -1,0 +1,14 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore session
+session/
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+#Ignore idx
+.idx
