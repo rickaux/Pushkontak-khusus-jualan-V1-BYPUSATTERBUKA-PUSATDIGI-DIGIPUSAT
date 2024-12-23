@@ -64,6 +64,10 @@ di file index.js line 368
 # Cara Instalasi Pertama Kali
 1. Install FFmpeg <br>
 Bot ini memerlukan FFmpeg untuk beberapa fungsi media.
+````
+<a href="https://phoenixnap.com/kb/ffmpeg-windows" target="_blank">Tutorial Instalasi FFmpeg</a>
+</a>.
+````
 
 2. Install Node.js <br>
 Pastikan Anda sudah menginstal Node.js versi terbaru atau yang lebih lama sesuai dengan kebutuhan bot ini. Anda dapat mengunduhnya <a href="https://nodejs.org/en" target="_blank">Klik Di Sini untuk Mengunjungi Situs</a>.
@@ -72,13 +76,21 @@ Pastikan Anda sudah menginstal Node.js versi terbaru atau yang lebih lama sesuai
 Gitbash diperlukan untuk memudahkan proses instalasi dan penggunaan bot. Jika belum terpasang, [Anda bisa mengunduhnya disini](https://git-scm.com/downloads).
 
 1. klone github Repo: <br>
-        ````git clone https://github.com/rickaux/Pushkontak-khusus-jualan-V1-BYPUSATTERBUKA-PUSATDIGI-DIGIPUSAT.git````
+        ````
+        git clone https://github.com/rickaux/Pushkontak-khusus-jualan-V1-BYPUSATTERBUKA-PUSATDIGI-DIGIPUSAT.git
+        ````
 2. Masuk Ke Directory: <br>
-    ````cd Pushkontak-khusus-jualan-V1````
+    ````
+    cd Pushkontak-khusus-jualan-V1
+    ````
 3. Installasi Depenensi <br>
-   ````npm install````
+   ````
+   npm install
+   ````
 4. Jalankan Bot <br>
-    ````npm start````
+    ````
+    npm start
+    ````
 
 ### Changelog <br>
 [Unreleased] <br>
