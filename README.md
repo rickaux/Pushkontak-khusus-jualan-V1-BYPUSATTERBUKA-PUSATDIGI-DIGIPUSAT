@@ -78,6 +78,7 @@ Gitbash diperlukan untuk memudahkan proses instalasi dan penggunaan bot. Jika be
 1. klone github Repo: <br>
         ````
         git clone https://github.com/rickaux/Pushkontak-khusus-jualan-V1-BYPUSATTERBUKA-PUSATDIGI-DIGIPUSAT.git
+        
         ````
 2. Masuk Ke Directory: <br>
     ````
