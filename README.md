@@ -52,6 +52,7 @@ contohnya:
 
 
 Gantilah ````6283190941023@s.whatsapp.net```` dengan nomor WhatsApp kalian sendiri.
+di file index.js line 368
 
 
 ### Next fitur
