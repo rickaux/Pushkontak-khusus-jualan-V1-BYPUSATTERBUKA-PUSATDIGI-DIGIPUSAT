@@ -71,7 +71,7 @@ Pastikan Anda sudah menginstal Node.js versi terbaru atau yang lebih lama sesuai
 Gitbash diperlukan untuk memudahkan proses instalasi dan penggunaan bot. Jika belum terpasang, [Anda bisa mengunduhnya disini](https://git-scm.com/downloads).
 
 1. klone github Repo: <br>
-        ````git clone https://github.com/username/Pushkontak-khusus-jualan-V1.git````
+        ````git clone https://github.com/rickaux/Pushkontak-khusus-jualan-V1-BYPUSATTERBUKA-PUSATDIGI-DIGIPUSAT.git````
 2. Masuk Ke Directory: <br>
     ````cd Pushkontak-khusus-jualan-V1````
 3. Installasi Depenensi <br>
