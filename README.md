@@ -80,3 +80,41 @@ Gitbash diperlukan untuk memudahkan proses instalasi dan penggunaan bot. Jika be
 4. Jalankan Bot <br>
     ````npm start````
 
+### Changelog <br>
+[Unreleased] <br>
+Fitur baru: 
+- Menambahkan fitur .ebook (dalam pengembangan) <br>
+Perbaikan: <br>
+- Memperbaiki beberapa bug kecil dan meningkatkan stabilitas bot<br>
+
+[1.0.0] - 2024-12-23 <br>
+Fitur baru: <br>
+Menambahkan menu utama untuk berbagai perintah bot, seperti .owner, .pushkontak, .tiktok, dan lainnya <br>
+
+Menambahkan fitur 
+- .savekontak1 untuk menyimpan kontak<br>
+- Menambahkan .listproduk untuk menampilkan daftar produk<br>
+- Menambahkan .listhosting untuk menampilkan daftar hosting<br>
+- Menambahkan .listpanel dan .listvps untuk menampilkan daftar panel dan VPS<br>
+- Menambahkan .payment untuk memproses pembayaran<br>
+- Menambahkan .ping untuk mengecek koneksi bot<br>
+
+# Perbaikan:<br>
+- Menambahkan pengecekan dan validasi pada beberapa perintah<br>
+- Memperbaiki bug pada integrasi dengan WhatsApp<br>
+
+### [0.1.0] - 2024-12-01<br>
+Fitur baru:<br>
+- Memperkenalkan bot dengan perintah dasar seperti .self, .public, .listgc<br>
+- Menambahkan sistem untuk memverifikasi ID channel dengan .cekidch<br>
+- Menambahkan perintah untuk menghasilkan daftar produk secara otomatis<br>
+
+Perbaikan:<br>
+- Menyempurnakan proses penyimpanan kontak<br>
+- Perbaikan kecil pada pengaturan file konfigurasi<br>
+
+### [0.0.1] - 2024-11-15<br>
+Fitur baru:<br>
+- Rilis awal bot dengan beberapa perintah dasar<br>
+- Menambahkan kemampuan untuk mengirim pesan otomatis saat bot terhubung
+- pemabahan fitur .ebook
