@@ -109,7 +109,7 @@ Menambahkan fitur
 - Menambahkan .payment untuk memproses pembayaran<br>
 - Menambahkan .ping untuk mengecek koneksi bot<br>
 
-# Perbaikan:<br>
+Perbaikan:<br>
 - Menambahkan pengecekan dan validasi pada beberapa perintah<br>
 - Memperbaiki bug pada integrasi dengan WhatsApp<br>
 
