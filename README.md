@@ -64,10 +64,8 @@ di file index.js line 368
 # Cara Instalasi Pertama Kali
 1. Install FFmpeg <br>
 Bot ini memerlukan FFmpeg untuk beberapa fungsi media.
-````
 <a href="https://phoenixnap.com/kb/ffmpeg-windows" target="_blank">Tutorial Instalasi FFmpeg</a>
 </a>.
-````
 
 2. Install Node.js <br>
 Pastikan Anda sudah menginstal Node.js versi terbaru atau yang lebih lama sesuai dengan kebutuhan bot ini. Anda dapat mengunduhnya <a href="https://nodejs.org/en" target="_blank">Klik Di Sini untuk Mengunjungi Situs</a>.
